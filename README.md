@@ -7,5 +7,7 @@
 * [download_weights](/download_weights) contains code for downloading our pre-trained SAEs
 ## Getting Started
 * First, pull the repo with git and use [uv](https://docs.astral.sh/uv/) to install the necessary packages with `uv sync`
-* Then, head to [download_weights](/download_weights) if you're intersted in running our pre-trained H-SAEs
+* If you'd like to just look at some features, go to [visualizations](/visualizations) and download the HTML file there
+* To train an H-SAE on the Gemma unembeddings, there's a notebook in [sae](/sae) (runs easily on a single GPU!)
+* Head to [download_weights](/download_weights) if you're intersted in running our pre-trained H-SAEs
 * If you want to train your own, get started with [build_training_data](/build_training_data)
