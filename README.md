@@ -1,4 +1,4 @@
-# Hierarchical Sparse Autoencoder Repo
+# [Hierarchical Sparse Autoencoder Repo](https://arxiv.org/abs/2506.01197)
 * This is the codebase for the Hierarchical Sparse Autoencoders paper!
 * [sae](/sae) contains the implementation of the H-SAEs and code for running them on a small scale (only single GPU) using unembeddings
 * [evals](/evals) contains code for running [SAEBench](https://github.com/adamkarvonen/SAEBench) absorption and core evals, alongside our custom translation evaluation
