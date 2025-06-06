@@ -1,3 +1,5 @@
+Twitter : https://x.com/victorveitch/status/1931029924682268956
+
 # [Hierarchical Sparse Autoencoder Repo](https://arxiv.org/abs/2506.01197)
 * This is the codebase for the Hierarchical Sparse Autoencoders paper!
 * [sae](/sae) contains the implementation of the H-SAEs and code for running them on a small scale (only single GPU) using unembeddings
